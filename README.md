@@ -1,4 +1,4 @@
-# 🐍 Python Programming — Complete Guide
+# 🐍 Python Programming 
 
 Python is a **high-level, interpreted, general-purpose programming language** known for its simple syntax and readability.
 
