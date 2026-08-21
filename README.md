@@ -1729,7 +1729,5 @@ A strong understanding of **variables, data types, collections, loops, condition
 ---
 
 
-# 🚀 Keep Learning Python, Build Projects, and Practice!
 
-**Python → Data Science → Machine Learning → AI → Generative AI**
 
